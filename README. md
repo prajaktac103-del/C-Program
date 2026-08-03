@@ -1,0 +1,34 @@
+# C-Programs
+
+This repository contains basic C programming experiments completed as part of my first-year B.Tech (AIML) programming laboratory.
+
+## Experiments Included
+
+### 1. Hello World Program
+- Print "Hello, World!" using C.
+
+### 2. Print Different Data Types
+- Print values of:
+  - Integer (int)
+  - Float (float)
+  - Character (char)
+
+### 3. Input Using scanf()
+- Read integer, float, and character values from the user using `scanf()` and display them.
+
+### 4. Print Array
+- Create and print arrays of different data types.
+
+### 5. Array Using scanf()
+- Accept array elements from the user using `scanf()` and display them.
+
+## Technologies Used
+- Language: C
+- Compiler: GCC / Turbo C / Code::Blocks / VS Code
+
+## Purpose
+This repository is created to practice basic C programming concepts and improve programming skills.
+
+## Author
+**Prajakta Gajanan Chavan**
+B.Tech (Artificial Intelligence & Machine Learning)
